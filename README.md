@@ -24,5 +24,6 @@ A decentralized application (DApp) for issuing, storing, and verifying certifica
 ---
 ## Clone the Repo
 ```
+git@github.com:anjitha-0123/Certificate-DApp.git
 ```
 
